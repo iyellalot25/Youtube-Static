@@ -11,6 +11,7 @@
 
 .vertical-thumb {
     position: relative;
+    margin-bottom: 8px;
 }
 .time {
     position: absolute;
@@ -38,7 +39,7 @@
     font-weight: bold;
     font-size: 14px;
     line-height: 20px;
-    margin-bottom: 14px;
+    margin-bottom: 10px;
 }
 
 .vid-channel{
@@ -61,7 +62,7 @@
 }
 
 .pfp{
-    width: 40px;
+    width: 36px;
     border-radius: 25px;
 }
 
